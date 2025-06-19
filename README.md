@@ -50,3 +50,10 @@ public data files
 
  - accepts/rejects accounts
  - reads public parts of protected routes
+
+## Organisation:
+ - All registered users belong to the organisation Insightly
+ - The Creator or Client has the option to name and create an organisation of their own. This way new users can become members of an existing organisation. Implementation and rules for this left out here.
+
+
+
